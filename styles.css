@@ -55,6 +55,7 @@ h1, h2, h3{
 	font-family: var(--heading-fonts);
 	/* make the heading text all small caps style */
 	font-variant: small-caps;
+}
 
 h2{
 	margin: 0;
